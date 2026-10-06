@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*:Zone.Identifier
+Starting_Kit/data/
+Competition_Bundle/input_data/*.h5
+Competition_Bundle/input_data/*.npy
+Competition_Bundle/reference_data/*.npy
+Competition_Bundle/sample_result_submission/labels.predict
+Competition_Bundle/scoring_output/
+*.zip
